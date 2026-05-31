@@ -1,7 +1,7 @@
 # 👨‍💻 João Paulo
 
-[![GitHub followers](https://img.shields.io/github/followers/jpincode?label=Seguidores&style=social)](https://github.com/jpincode)
-[![Disponível para Freelance](https://img.shields.io/badge/Disponível-para%20Propostas-green)](https://github.com/jpincode)
+[![GitHub followers](https://img.shields.io/github/followers/joaopauloarj?label=Seguidores&style=social)](https://github.com/joaopauloarj)
+[![Disponível para Freelance](https://img.shields.io/badge/Disponível-para%20Propostas-green)](https://github.com/joaopauloarj)
 
 🎓 **Estudante de Tecnologia da Informação** no [IFPB](https://www.ifpb.edu.br/)  
 📍 Dona Inês, Paraíba, Brasil  
@@ -64,11 +64,11 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/jpincode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpincode&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/joaopauloarj">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopauloarj&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/jpincode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincode&layout=compact&theme=transparent" alt="Top Languages" width="350px" />
+  <a href="https://github.com/joaopauloarj">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloarj&layout=compact&theme=transparent" alt="Top Languages" width="350px" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@
 
 ## 📫 Contato & Redes Sociais
 
-- **GitHub**: [@jpincode](https://github.com/jpincode)  
+- **GitHub**: [@joaopauloarj](https://github.com/joaopauloarj)  
 - **LinkedIn**: [@joaodevv](https://www.linkedin.com/in/joaodevv)
 - **Instagram**: [@jp.arjj](https://www.instagram.com/jp.arjj)
 - **E-mail**: `joaoaraujo.developer@gmail.com` 
