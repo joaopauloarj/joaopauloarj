@@ -1,20 +1,20 @@
-# Hello, I'm João Paulo 👋
+# Hello, I'm João Paulo
 
-Developer passionate about technology and programming.
+Developer passionate about technology and software development.
 
 Currently learning and building projects to improve my skills.
 
 Technologies:
 - JavaScript
+- TypeScript
+- Node.js
+- Java
+- Spring Boot
 - Python
 - C/C++
-- Git
 - Pawn
 - MySQL
 - SQLite
-- Java
-- Spring Boot
-- NodeJS
-- TypeScript
+- Git
 
-Always looking to learn something new and grow as a developer.
+Always looking to learn new technologies and grow as a developer.
