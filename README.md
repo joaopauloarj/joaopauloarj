@@ -10,7 +10,6 @@ Technologies:
 - Node.js
 - Java
 - Spring Boot
-- Python
 - C/C++
 - Pawn
 - MySQL
